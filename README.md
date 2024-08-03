@@ -4,7 +4,7 @@
 
 
 
-# Project Name
+# GitPath
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. [Anand Gopan G](https://github.com/TH-Activities/saturday-hack-night-template)
