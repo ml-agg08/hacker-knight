@@ -5,7 +5,7 @@
 
 
 # GitPath
-Long Description about project. This project do that. This project is awesome...
+GitPath is your ultimate coding sidekick, making it easy to track your progress and level up your skills! 🚀 You can see how much you’ve grown over time and flex your achievements with just a glance. Dive into the tech stacks you're into, like React or machine learning, and find projects that match your vibe and skill level. Set goals, pick your difficulty, and get matched with repos that fit your level. GitPath also helps you map out your future moves and stay on top of trending tech. With its chill design and real-time updates, GitPath keeps everything simple and fun. Join the crew and make your coding journey epic! 🌟
 ## Team members
 1. [Anand Gopan G](https://github.com/TH-Activities/saturday-hack-night-template)
 2. [Rishit Menon](https://github.com/TH-Activities/saturday-hack-night-template)
