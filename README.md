@@ -46,4 +46,4 @@ Start the Development Server: Use npm run dev or yarn dev to launch the app loca
 
 Build for Production: When you’re ready to deploy, run npm run build or yarn build to create a production-ready build.
 ## How to Run
-This program runs! 
+Just fire up your terminal, run npm run dev or yarn dev, and check it out at http://localhost:5173. Easy peasy, and your app’s live locally!
