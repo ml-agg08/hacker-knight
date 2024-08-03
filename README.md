@@ -36,6 +36,14 @@ It’s all about making your coding experience better by showing you where you�
 - **GitHub API** - Used for interacting with GitHub repositories and user data
 
 ## How to configure
-Instructions for setting up project
+Clone the Repo: git clone https://github.com/your-username/your-repository.git and navigate to the project folder with cd your-repository.
+
+Install Dependencies: Run npm install or yarn install to get everything you need.
+
+Configure Environment Variables: Create a .env file in the root directory and add your GitHub token: VITE_GITHUB_TOKEN=your_github_token_here.
+
+Start the Development Server: Use npm run dev or yarn dev to launch the app locally. Open http://localhost:5173 in your browser.
+
+Build for Production: When you’re ready to deploy, run npm run build or yarn build to create a production-ready build.
 ## How to Run
 This program runs! 
