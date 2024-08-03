@@ -24,7 +24,8 @@ Set Goals: Choose your difficulty level and get recommendations that match your 
 Plan Your Next Moves: Get tips on what to tackle next and discover new tech stacks to explore. GitPath gives you insights to keep your learning journey fresh and exciting.
 
 It’s all about making your coding experience better by showing you where you’ve been, where you’re at, and where you can go next. 
-2. [Embed video of project demo](https://drive.google.com/file/d/1iUIBYAnwo44M6UOjJtx1PkHctL0CaNUH/view?usp=drive_link)
+
+2. [Video embeded](https://drive.google.com/file/d/1iUIBYAnwo44M6UOjJtx1PkHctL0CaNUH/view?usp=drive_link)
 ## Libraries used
 Library Name - Version
 ## How to configure
