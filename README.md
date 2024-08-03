@@ -27,7 +27,14 @@ Itâ€™s all about making your coding experience better by showing you where youâ€
 
 2. [Video embeded](https://drive.google.com/file/d/1iUIBYAnwo44M6UOjJtx1PkHctL0CaNUH/view?usp=drive_link)
 ## Libraries used
-Library Name - Version
+
+- **React** - ^18.2.0
+- **React Router DOM** - ^6.8.0
+- **Axios** - ^1.3.0
+- **Vite** - ^4.4.0
+- **React Icons** - ^4.8.0
+- **GitHub API** - Used for interacting with GitHub repositories and user data
+
 ## How to configure
 Instructions for setting up project
 ## How to Run
