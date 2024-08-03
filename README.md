@@ -11,7 +11,7 @@ GitPath is your ultimate coding sidekick, making it easy to track your progress 
 2. [Rishit Menon](https://github.com/TH-Activities/saturday-hack-night-template)
 3. [Sadhav S](https://github.com/TH-Activities/saturday-hack-night-template)
 ## Link to product walkthrough
-[link to video](Link Here)
+[link to video](https://drive.google.com/file/d/1B8joe3TuVntQYCSoNK93R-1QrovG133M/view?usp=drive_link)
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
